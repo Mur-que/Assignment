@@ -1,0 +1,52 @@
+body {
+	background-color: #FFEBC0;
+}
+
+/*******HEADER******/
+
+#header-nav {
+	padding: 1em;
+	border-bottom: 1px solid;
+	border-radius: 0;
+	background-color: #C6A950; 
+}
+
+.navbar-brand {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+#nav-list {
+	font-size: 1.5em;
+}
+
+#nav-list li {
+padding: 1px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+
+border: 1px solid #000;
+}
+
+/***************** MAIN CONTENT ******/
+
+
+h1 {
+text-transform: uppercase;
+margin-bottom: 1em;
+font-weight: bold;
+}
+
+h3 {
+	margin: 0 0 1em 0;
+}
+
+.main {
+	background-color: #FFF5E1;
+	padding: 20px;
+	margin-bottom: 2em;
+
+}
+
+
